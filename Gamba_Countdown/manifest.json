@@ -1,0 +1,7 @@
+{
+    "manifest_version": 1,
+    "name": "Gamba Cooldown Countdown",
+    "version": "1.0.0",
+    "description": "Counts down from the cooldown for Streamlabs gambling game" ,
+    "default_locale": "en"
+}
