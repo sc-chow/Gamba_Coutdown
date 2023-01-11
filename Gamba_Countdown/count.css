@@ -1,6 +1,8 @@
 body{
     background: rgba(98, 164, 224);
-    vertical-align: middle;
+    /*vertical-align: middle;
+    */
+    margin: 0 auto;
 }
 
 h2{
