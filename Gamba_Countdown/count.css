@@ -21,6 +21,7 @@ br {
 
 .Indiv230{
     display: inline-block;
+    margin-left: 50px;
 }
 
 .Slots{
@@ -30,6 +31,7 @@ br {
 
 .Slots230{
     display: inline-block;
+    margin-left: 120px;
 }
 
 .Duels{
@@ -38,5 +40,6 @@ br {
 }
 
 .Duels15{
-    display: inline-block;
+    display: inline-block
+    margin-left: 10px;
 }
