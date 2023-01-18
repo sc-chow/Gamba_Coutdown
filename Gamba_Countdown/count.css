@@ -10,8 +10,13 @@ h2{
     font-family:'Courier New', Courier, monospace;
 }
 
+br {
+    line-height: 1px;
+ }
+
 .Individual{
     display: inline-block;
+    margin-left: 30px;
 }
 
 .Indiv230{
@@ -20,6 +25,7 @@ h2{
 
 .Slots{
     display: inline-block;
+    margin-left: 30px;
 }
 
 .Slots230{
@@ -28,6 +34,7 @@ h2{
 
 .Duels{
     display: inline-block;
+    margin-left: 30px;
 }
 
 .Duels15{
