@@ -9,3 +9,27 @@ h2{
     color: white;
     font-family:'Courier New', Courier, monospace;
 }
+
+.Individual{
+    display: inline-block;
+}
+
+.Indiv230{
+    display: inline-block;
+}
+
+.Slots{
+    display: inline-block;
+}
+
+.Slots230{
+    display: inline-block;
+}
+
+.Duels{
+    display: inline-block;
+}
+
+.Duels15{
+    display: inline-block;
+}
