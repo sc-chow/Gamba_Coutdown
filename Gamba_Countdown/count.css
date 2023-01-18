@@ -17,6 +17,7 @@ br {
 .Individual{
     display: inline-block;
     margin-left: 30px;
+    text-align: center;
 }
 
 .Indiv230{
@@ -40,6 +41,6 @@ br {
 }
 
 .Duels15{
-    display: inline-block
-    margin-left: 10px;
+    display: inline-block;
+    margin-left: 120px;
 }
